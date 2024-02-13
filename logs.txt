@@ -1,0 +1,223 @@
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Clark Kent\",\"email\":\"clark@gmail.com\",\"password\":\"superman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/product LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/65b6451850235caa6ed26760 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?category=Book LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?category=Book LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=200000 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=200000 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=200000 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=200000 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=200000 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?maxPrice=200000 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&maxPrice=200000 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&maxPrice=200000&category=Electronics LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b646c32c73e6b5230f087a&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b646c32c73e6b5230f087a&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b646c32c73e6b5230f087a&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b6451850235caa6ed26760&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b6451850235caa6ed26760&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b6451850235caa6ed26760&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b6451850235caa6ed26760&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b6451850235caa6ed26760&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b6451850235caa6ed26760&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/65b6451850235caa6ed26760 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/65b6451850235caa6ed26760 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/65b6451850235caa6ed26760 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b6451850235caa6ed26760&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b6451850235caa6ed26760&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=65b6451850235caa6ed26760&rating=4 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/65b6451850235caa6ed26760 LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=&rating=4 LogData: {\"productID\":\"65b6451850235caa6ed26760\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=&rating=4 LogData: {\"productID\":\"65b6451850235caa6ed26760\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=&rating=4 LogData: {\"productID\":\"65b6451850235caa6ed26760\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=&rating=4 LogData: {\"productID\":\"65b6451850235caa6ed26760\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID=&rating=4 LogData: {\"productID\":\"65b6451850235caa6ed26760\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b6451850235caa6ed26760\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.1}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.1}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.1}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.1}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems/update?itemID=65b75632de06bddc0e3b5b9d&quantity=5 LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems?itemID=65b75632de06bddc0e3b5b9d&quantity=5 LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems?itemID=65b75632de06bddc0e3b5b9d&quantity=5 LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems?itemID=65b75632de06bddc0e3b5b9d&quantity=5 LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems?itemID=65b75632de06bddc0e3b5b9d LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems/65b75632de06bddc0e3b5b9d LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems/65b75632de06bddc0e3b5b9d LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems/65b75632de06bddc0e3b5b9d LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate?productID= LogData: {\"email\":\"barry@gmail.com\",\"password\":\"flash\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&catagories=[%27Book%27,%20%27Electronics%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27,%20%27Electronics%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27,%20%27Electronics%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27,%20%27Electronics%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27,%20%27Electronics%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27,%20%27Electronics%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27,%20%27Electronics%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27,%20%27Electronics%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=1000&categories=[%27Book%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=500&categories=[%27Book%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=500&categories=[%27Book%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/filter?minPrice=500&categories=[%27Book%27] LogData: {\"name\":\"Bruce Wayne\",\"email\":\"bruce@gmail.com\",\"password\":\"batman\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/averagePrice LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b64845dfe4193f16879838\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b64845dfe4193f16879838\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b64845dfe4193f16879838\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/cartItems LogData: {\"productID\":\"65b64845dfe4193f16879838\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/order/ LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Barry Allen\",\"email\":\"barry@gmail.com\",\"password\":\"flash\",\"type\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Hal Jordan\",\"email\":\"hal@gmail.com\",\"password\":\"greenlatern\",\"type\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/resetPassword LogData: {\"newPassword\":\"greenlantern\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/resetPassword LogData: {\"newPassword\":\"greenlantern\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/books/genre/Science%20Fiction LogData: {\"title\":\"Sample Book\",\"author\":\"789654125412\",\"genre\":\"Fiction\",\"copies\":5,\"availableCopies\":5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Hal Jordan\",\"email\":\"hal@gmail.com\",\"password\":\"greenlatern\",\"type\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Hal Jordan\",\"email\":\"hal@gmail.com\",\"password\":\"greenlatern\",\"type\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Hal Jordan\",\"email\":\"hal@gmail.com\",\"password\":\"greenlatern\",\"type\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Hal Jordan\",\"email\":\"hal1@gmail.com\",\"password\":\"greenlatern\",\"type\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Hal Jordan\",\"email\":\"hal1@gmail.com\",\"password\":\"greenlatern\",\"type\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/user/register LogData: {\"name\":\"Hal Jordan\",\"email\":\"hal1@gmail.com\",\"password\":\"greenlatern\",\"type\":\"Customer\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b646c32c73e6b5230f087a\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b64845dfe4193f16879838\",\"rating\":4.8}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products/rate LogData: {\"productID\":\"65b64845dfe4193f16879838\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/products LogData: {}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like?id=65b646c32c73e6b5230f087a&type=products LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like?id=65b646c32c73e6b5230f087a&type=products LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like?id=65b646c32c73e6b5230f087a&type=products LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like?id=65b646c32c73e6b5230f087a&type=products LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like?id=65b646c32c73e6b5230f087a&type=products LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/like?id=65b646c32c73e6b5230f087a&type=products LogData: {\"id\":\"65b646c32c73e6b5230f087a\",\"type\":\"Product\"}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/books/Book/65bf3288d16061163f702ec1/reviews LogData: {\"text\":\"wonderful\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/books/65bf3288d16061163f702ec1/reviews LogData: {\"text\":\"wonderful\",\"rating\":4.5}","service":"request-logging"}
+{"level":"info","message":"Request URL: /api/books/Book/65bf3288d16061163f702ec1/reviews LogData: {\"text\":\"wonderful\",\"rating\":4.5}","service":"request-logging"}

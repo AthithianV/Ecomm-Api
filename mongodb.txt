@@ -1,0 +1,34 @@
+// Find average rating for each product
+db.products.aggregate([
+    {
+        $unwind: "$ratings"
+    },
+    {
+        $group: {
+            _id: "$name", avgRating: {$avg: "$ratings.rating"}
+        }
+    }
+])
+db.products.aggregate([{$unwind: "$ratings"},{$group: {_id: "$name", avgRating: {$avg: "$ratings.rating"}}}])
+
+
+
+// Find count of rating in each product
+db.products.aggregate([
+    {
+        $project: {name: 1, CountOfRating: {$cond: {if: {$isArray: "$ratings"}, then: {$size: "$ratings"}, else:0}}}
+    },
+])
+db.products.aggregate([{$project: {name: 1, CountOfRating: {$cond: {if: {$isArray: "$ratings"}, then: {$size: "$ratings"}, else:0}}}}])
+
+
+// Find max rated product
+db.products.aggregate([
+    {
+        $project: {name: 1, CountOfRating: {$cond: {if: {$isArray: "$ratings"}, then: {$size: "$ratings"}, else:0}}}
+    },
+    {
+        $sort: {CountOfRating: -1}
+    }
+])
+db.products.aggregate([{$project: {name: 1, CountOfRating: {$cond: {if: {$isArray: "$ratings"}, then: {$size: "$ratings"}, else:0}}}}, {$sort: {CountOfRating: -1}}])

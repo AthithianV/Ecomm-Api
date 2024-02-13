@@ -1,0 +1,6 @@
+
+
+1. Get cart Item of user and calculate amount
+2. Crate Record for the order
+3. Reduce the stack
+4. Clear the cart
