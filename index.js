@@ -43,7 +43,7 @@ server.get("/", (req, res) => {
 });
 
 server.use((req, res) => {
-  res.status(404).send("API Not found");
+  res.status(404).send("Page Not found");
 });
 
 server.use((err, req, res, next) => {
@@ -56,7 +56,7 @@ server.use((err, req, res, next) => {
     return res.status(err.code).send(err.message);
   }
 
-  res.status(503).send("Something Went wrong, Please Try Later" + err.message);
+  res.status(503).send("Something Went wrong, Please Try Later");
 });
 
 // 4. Specify port.
