@@ -1,6 +1,8 @@
 import { MongoClient } from "mongodb";
 
-const url = process.env.DB_URL;
+
+const password = encodeURIComponent("AQ!SW@de3fr4");
+const url = `mongodb+srv://Athithian:${password}@cluster0.jbnemwi.mongodb.net/?retryWrites=true&w=majority&appName=Ecomm_Database`;
 let client = null;
 
 const connectToMongodb = () => {
